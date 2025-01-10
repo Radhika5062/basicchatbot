@@ -18,4 +18,4 @@ Stakeholder: That’s awesome! So, what’s next for this project?
 
 Gen AI Engineer: For now, it’s a simple implementation, but I’m thinking about adding advanced features like conversational memory, multi-turn dialogues, and maybe even deploying it to a scalable platform. I’d love feedback or collaboration ideas!
 
-Stakeholder: Thanks for sharing this! I’ll definitely check out the GitHub repo.
+Stakeholder: Thanks for sharing this! I’ll definitely check out the GitHub repo along with demo video.
